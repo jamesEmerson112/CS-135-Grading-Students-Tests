@@ -9,7 +9,7 @@ data is read
 5. interactively prompt for and read the name of an output file
 6. write the following to the specified output file (separate each section with
 a blank line to improve readability)
-	+. The author's name, section #, assignment #
+	+ The author's name, section #, assignment #
 b. A report that displays the names of the students (alphabetically by last
 name) along with their ID#s and test scores (see formatting specifications
 and samples below)
@@ -22,15 +22,15 @@ descending order)(see formatting specifications and samples below)
 	- the median (middle value or average of middle values if there are 
 	an even number of students, 2 digits to right of decimal)
 7. interactively prompt for and read the name of the second input file
-+. write an appropriate message to indicate the start of the start of the 
++ write an appropriate message to indicate the start of the start of the 
 second input file processing
-+. write the test key to the output file (with label)
-+. read each integer, if it matches an ID# in the student array, write the
++ write the test key to the output file (with label)
++ read each integer, if it matches an ID# in the student array, write the
 student's name, test score, and testanswers (you may reformat the test
 answers if you wrish) with labels to the output file
-+. if the ineger does not match an ID# in the array, write an error 
++ if the ineger does not match an ID# in the array, write an error 
 message that includes the invalid ID# to the output file
-+. if the integer does not match an ID# in the array, write an error 
++ if the integer does not match an ID# in the array, write an error 
 message that includes the invalid ID# to the output file
 
 ```
